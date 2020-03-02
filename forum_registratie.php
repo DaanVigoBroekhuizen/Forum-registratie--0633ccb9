@@ -15,12 +15,5 @@
     <input type="number" name="leeftijd"> leeftijd
     <input type="submit" name="submit">
 </form>
-    
-<?php
-
-
-
-?>
-
 </body>
 </html>
